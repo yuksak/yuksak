@@ -8,10 +8,10 @@
 #
 
 ### About me
-A self-taught Front-End Developer from Uzbekistan.
+I'm a self-taught front-end developer. I'm passionate about learning new skills, technologies.
 
 ### Technologies & Tools I use
-React, Typescript, Redux, Redux Toolkit, RTK Query, React Query, Tailwind, Git, Scss, Figma, Vite.
+Typescript, React, React Router, Redux, Redux Toolkit, RTK Query, React Query, REST API, Tailwind, Git, Scss, Figma, Webpack, Vite, i18next, Axios.
 
 
 

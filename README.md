@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://twitter.com">Twitter</a> •
-  <a href="https://t.me/imaguine">Telegram</a>
+  <a href="https://t.me">Telegram</a>
 </p>
 
 #
